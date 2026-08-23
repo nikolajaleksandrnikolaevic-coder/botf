@@ -1,0 +1,2132 @@
+[
+  {
+    "name": "P90 | Oops",
+    "image": "https://ggstand.net/public/storage/items/1689713941c8bb791642198088b88b5e5f32791a5b.png",
+    "price": 26.1,
+    "rarity": "classified"
+  },
+  {
+    "name": "Desert Eagle | Blood",
+    "image": "https://ggstand.net/public/storage/items/17871720801eb7c9e41877c6ee9b5d03c68fd5b423.webp",
+    "price": 26.81,
+    "rarity": "milspec"
+  },
+  {
+    "name": "Desert Eagle | Red Dragon",
+    "image": "https://ggstand.net/public/storage/items/1787172382acb271f75d9d2e8d9ef1ed86202877fe.webp",
+    "price": 31.0,
+    "rarity": "industrial"
+  },
+  {
+    "name": "MP7 | Revival",
+    "image": "https://ggstand.net/public/storage/items/1688130213c5a92e72d24011f817e1f4f208cefeae.png",
+    "price": 38.77,
+    "rarity": "restricted"
+  },
+  {
+    "name": "M4A1 | Overdrive",
+    "image": "https://ggstand.net/public/storage/items/1742828061ae6cfb355f7d5c5188bcaab0112b0a1e.png",
+    "price": 40.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*MP5 | Space Blaster",
+    "image": "https://ggstand.net/public/storage/items/168850806125ac396212eccb63d6b97b1b3ef43339.png",
+    "price": 40.0,
+    "rarity": "industrial"
+  },
+  {
+    "name": "P90 | Fusion Core",
+    "image": "https://ggstand.net/public/storage/items/171043808332f1e910b633eab01e7a89c898f75f1d.png",
+    "price": 41.8,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*MAC10 | Wild Rage",
+    "image": "https://ggstand.net/public/storage/items/1787257974bbc7eb61e66c54c469bf8e0e6772c9b8.webp",
+    "price": 50.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "Sticker | Hardcore Color",
+    "image": "https://ggstand.net/public/storage/items/1689768450e3dc8ae1f67cb4bcf65532544a071a22.png",
+    "price": 50.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "StatTrack*MP7 | Palace",
+    "image": "https://ggstand.net/public/storage/items/16881302155bcda0dc8daeecea3467dca379527289.png",
+    "price": 51.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "F/S | Venom",
+    "image": "https://ggstand.net/public/storage/items/168808193379d79990c495f3729fe458631791df5c.png",
+    "price": 58.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR12 | Flow",
+    "image": "https://ggstand.net/public/storage/items/1787153163e13ee704c98964e30cbc3ccbba843878.webp",
+    "price": 65.88,
+    "rarity": "industrial"
+  },
+  {
+    "name": "StatTrack*P90 | Z-50 F.U.J.I.N.",
+    "image": "https://ggstand.net/public/storage/items/168813042129a675ad336fdd2584e880f49165e334.png",
+    "price": 66.66,
+    "rarity": "restricted"
+  },
+  {
+    "name": "Charm | Crooked Broom",
+    "image": "https://ggstand.net/public/storage/items/1689709129ff0884b45bdc48e1e5f88961d0ddb80b.png",
+    "price": 70.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "Akimbo Uzi | Overdrive Red",
+    "image": "https://ggstand.net/public/storage/items/178715162035e138d24ac88a3c82ff56cbe15ce4bc.webp",
+    "price": 70.25,
+    "rarity": "covert"
+  },
+  {
+    "name": "Arcane Fragment",
+    "image": "https://ggstand.net/public/storage/items/1787155190106c181fedb59602fca4def0c88bd005.webp",
+    "price": 71.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*VAL | Ronin",
+    "image": "https://ggstand.net/public/storage/items/1787153540eb3dfbf451f31498902ba26f5c95035f.webp",
+    "price": 80.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*Mallard | Wild West",
+    "image": "https://ggstand.net/public/storage/items/1787258628659b5f97db77bf7d1bab9291c8118087.webp",
+    "price": 80.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "M16 | Shogun Stripes",
+    "image": "https://ggstand.net/public/storage/items/16884061990dacbc51669414e8901941374fb753cd.png",
+    "price": 85.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Famas | Beagle",
+    "image": "https://ggstand.net/public/storage/items/1688081468a2eac82024adca47cf576b38f8740f30.png",
+    "price": 89.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "MP7 | Stickerbomb",
+    "image": "https://ggstand.net/public/storage/items/1689713966342e64ebead79119b81f1a09cdddebc9.png",
+    "price": 89.9,
+    "rarity": "classified"
+  },
+  {
+    "name": "VAL | Gilded Gale",
+    "image": "https://ggstand.net/public/storage/items/17104375115fae66c2465267c21ff3db3541100489.png",
+    "price": 93.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Desert Eagle | Venator",
+    "image": "https://ggstand.net/public/storage/items/17871724121b1892ad6abbf4fa2d573874d4a1c528.webp",
+    "price": 98.85,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4 | Samurai",
+    "image": "https://ggstand.net/public/storage/items/1688127668bee9cd4ad5288a4fac522769b9c67d0d.png",
+    "price": 99.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | Festal Wrap",
+    "image": "https://ggstand.net/public/storage/items/17871555752efb486f3cf4702de6804f6b0958700c.webp",
+    "price": 100.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "AWM | Hohei Taisho",
+    "image": "https://ggstand.net/public/storage/items/17871556196a1440a1e956c593ef0136e672a34dd0.webp",
+    "price": 100.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sticker | Target",
+    "image": "https://ggstand.net/public/storage/items/16884357302f5a8c2fabddfdedefaee349d861efc0.png",
+    "price": 104.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "G22 | Frost Wyrm",
+    "image": "https://ggstand.net/public/storage/items/168812727566c0bfbb64ce827c64bd86d937f50fe8.png",
+    "price": 109.52,
+    "rarity": "classified"
+  },
+  {
+    "name": "AKR | Icewing",
+    "image": "https://ggstand.net/public/storage/items/17871524734eb3e6c78234ae92169c238bcc4a6c12.webp",
+    "price": 119.33,
+    "rarity": "restricted"
+  },
+  {
+    "name": "StatTrack*P350 | Lab Prototype",
+    "image": "https://ggstand.net/public/storage/items/1775564324db83ea1c8c138fe998c0a96667770f99.png",
+    "price": 125.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "AWM | BOOM",
+    "image": "https://ggstand.net/public/storage/items/1787155223d15e24cae110798de5666fd1c8add680.webp",
+    "price": 125.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "MP7 | Arcade",
+    "image": "https://ggstand.net/public/storage/items/1688130160f3802ae4bad37df48693452da3546fb1.png",
+    "price": 131.9,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*Desert Eagle | Eclipse",
+    "image": "https://ggstand.net/public/storage/items/17871721789a5150693db20eed2bbb0bb82e41752b.webp",
+    "price": 140.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "M16 | Sea Glint",
+    "image": "https://ggstand.net/public/storage/items/17191365421f3d44d94d19ac0bd5f9a4fd5d63708a.png",
+    "price": 142.87,
+    "rarity": "covert"
+  },
+  {
+    "name": "USP | Stickerbomb",
+    "image": "https://ggstand.net/public/storage/items/168973624792dd57048d335d080c6cfcd4ae5dff69.png",
+    "price": 147.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*TEC-9 | Fable",
+    "image": "https://ggstand.net/public/storage/items/1688133134617f7a22866ee64ab0064a6010ba243a.png",
+    "price": 149.87,
+    "rarity": "classified"
+  },
+  {
+    "name": "G22 | Twilight",
+    "image": "https://ggstand.net/public/storage/items/176614233417bbc6ddc5899942547fc9756dc6a8c6.png",
+    "price": 153.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M40 | Northern Lights",
+    "image": "https://ggstand.net/public/storage/items/1735389788c27aa9e41a3726d8e45d898fbdf4520d.png",
+    "price": 160.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Charm | Santa Globe",
+    "image": "https://ggstand.net/public/storage/items/178717122236e8cb8e738b5b49aea872753bf7fdef.webp",
+    "price": 166.98,
+    "rarity": "classified"
+  },
+  {
+    "name": "AKR12 | Kensei",
+    "image": "https://ggstand.net/public/storage/items/17871532436bd7e67a6bbe863443f3031a0e818b6d.webp",
+    "price": 170.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Akimbo Uzi | Fire Horse",
+    "image": "https://ggstand.net/public/storage/items/17871514773deb15f0c79b3611c4675b6643558439.webp",
+    "price": 170.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR12 | Geometric",
+    "image": "https://ggstand.net/public/storage/items/1787153176e5148056cab72bfbb74edecbbcd1461b.webp",
+    "price": 186.7,
+    "rarity": "classified"
+  },
+  {
+    "name": "SPAS | Glide",
+    "image": "https://ggstand.net/public/storage/items/17428264945fe6795a23be56639ab37c26cb0d5fbd.png",
+    "price": 192.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*USP | Chameleon",
+    "image": "https://ggstand.net/public/storage/items/16881337481b22313387dd54ecbfec930977c0a53f.png",
+    "price": 193.98,
+    "rarity": "classified"
+  },
+  {
+    "name": "UMP45 | Beast",
+    "image": "https://ggstand.net/public/storage/items/168813350499a15162d421ad05f1403a4224b5fc5e.png",
+    "price": 195.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M16 | Raiva",
+    "image": "https://ggstand.net/public/storage/items/1742826492eaf3f955880f802bec54dce9a80b57f0.png",
+    "price": 199.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Bubblegum",
+    "image": "https://ggstand.net/public/storage/items/16881278102f7316d7e2498d08fc2b98bd44f3a2e6.png",
+    "price": 211.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Overdrive",
+    "image": "https://ggstand.net/public/storage/items/1742828062ae6cfb355f7d5c5188bcaab0112b0a1e.png",
+    "price": 213.8,
+    "rarity": "classified"
+  },
+  {
+    "name": "SM1014 | Freezing Gasp",
+    "image": "https://ggstand.net/public/storage/items/17031880303de252eeb32cc33436cbffe6da912477.png",
+    "price": 220.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Charm | Molotov",
+    "image": "https://ggstand.net/public/storage/items/1787161843c0d33ea823c885890d39ad002a4fdd6a.webp",
+    "price": 225.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "M4A1 | K.I.N.G. V7.03",
+    "image": "https://ggstand.net/public/storage/items/1688127807d91b21794b48a6821704fe8235599526.png",
+    "price": 230.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Sticker | Rust",
+    "image": "https://ggstand.net/public/storage/items/1688475887e0df624c98c613048c72e56a02280243.png",
+    "price": 239.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Charm | Karambit Gold",
+    "image": "https://ggstand.net/public/storage/items/17871709892df1583b9c1c59b44958efaebc252352.webp",
+    "price": 245.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "StatTrack*F/S | Venom",
+    "image": "https://ggstand.net/public/storage/items/168808193279d79990c495f3729fe458631791df5c.png",
+    "price": 255.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Akimbo Uzi | Overdrive Red",
+    "image": "https://ggstand.net/public/storage/items/178715162335e138d24ac88a3c82ff56cbe15ce4bc.webp",
+    "price": 260.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4 | Flex",
+    "image": "https://ggstand.net/public/storage/items/174489521467470ef1203c5216b9880b3df32f1109.png",
+    "price": 300.0,
+    "rarity": "restricted"
+  },
+  {
+    "name": "AKR12 | Emberbird",
+    "image": "https://ggstand.net/public/storage/items/1787153147bc4040b0b81440dee027eb555f296ba6.webp",
+    "price": 300.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Charm | Scarecrow",
+    "image": "https://ggstand.net/public/storage/items/1787171233e6f8f7ec3043674f4976819a584d57d6.webp",
+    "price": 302.97,
+    "rarity": "restricted"
+  },
+  {
+    "name": "StatTrack*FabM | BOOM",
+    "image": "https://ggstand.net/public/storage/items/1689704817581e7e95fbcdf7d9fe98bcac477b39dc.png",
+    "price": 305.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M16 | Raiva",
+    "image": "https://ggstand.net/public/storage/items/1742826493eaf3f955880f802bec54dce9a80b57f0.png",
+    "price": 320.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR | Genesis",
+    "image": "https://ggstand.net/public/storage/items/1787152446427fea59a03a4b1e751d0d3add41cac4.webp",
+    "price": 330.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M16 | Shogun Stripes",
+    "image": "https://ggstand.net/public/storage/items/16884061980dacbc51669414e8901941374fb753cd.png",
+    "price": 333.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | Stickerbomb",
+    "image": "https://ggstand.net/public/storage/items/17871558975891fcf6283b8ab30eb62554bd9deec7.webp",
+    "price": 350.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Desert Eagle | Venator",
+    "image": "https://ggstand.net/public/storage/items/17871724151b1892ad6abbf4fa2d573874d4a1c528.webp",
+    "price": 350.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR | Tag King",
+    "image": "https://ggstand.net/public/storage/items/17871528858aad29bdb29c401d13841ac2d07dbf78.webp",
+    "price": 360.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | Dragon",
+    "image": "https://ggstand.net/public/storage/items/1787155385e355d3f90fbbe747a72e6cc6dc8cbf20.webp",
+    "price": 380.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "StatTrack*MP7 | Offroad",
+    "image": "https://ggstand.net/public/storage/items/16881302174130c96609179eef22c502601d5cbe18.png",
+    "price": 387.49,
+    "rarity": "restricted"
+  },
+  {
+    "name": "AWM | Spectral",
+    "image": "https://ggstand.net/public/storage/items/17871557656a25aa36acad03a9a2422d8ea057e54d.webp",
+    "price": 395.9,
+    "rarity": "covert"
+  },
+  {
+    "name": "Desert Eagle | Fusion Core",
+    "image": "https://ggstand.net/public/storage/items/1787172198d3a6a5695230294637a3ac6ba3f7d631.webp",
+    "price": 408.89,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Immortal",
+    "image": "https://ggstand.net/public/storage/items/16897141903fdf534b6075617024df5ddb46eaca3f.png",
+    "price": 430.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Gloves | Ironclad",
+    "image": "https://ggstand.net/public/storage/items/17252016654e795acad9448f9cd66950d8876ab3ef.png",
+    "price": 450.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | Gear",
+    "image": "https://ggstand.net/public/storage/items/1787155592dbc829ab61af43f63b8709c1301cbd37.webp",
+    "price": 450.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Gloves | Hanami",
+    "image": "https://ggstand.net/public/storage/items/173538936603f5f784768411235d820f3d27f0ae64.png",
+    "price": 457.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Overheat",
+    "image": "https://ggstand.net/public/storage/items/1781608520fb4085e17c1087ff2837138ba1590027.png",
+    "price": 480.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M16 | Sea Glint",
+    "image": "https://ggstand.net/public/storage/items/17191365631f3d44d94d19ac0bd5f9a4fd5d63708a.png",
+    "price": 480.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Treasure Hunter",
+    "image": "https://ggstand.net/public/storage/items/1766142338275bd7b8ffd4382916acea72fe95e3e7.png",
+    "price": 480.55,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*VAL | Gilded Gale",
+    "image": "https://ggstand.net/public/storage/items/17104375375fae66c2465267c21ff3db3541100489.png",
+    "price": 495.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Ritual",
+    "image": "https://ggstand.net/public/storage/items/17496484331d88e6ba9aac837ea6a80ae89c9635a9.png",
+    "price": 500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "P350 | Forest Spirit",
+    "image": "https://ggstand.net/public/storage/items/16881324712336deb0c748bd1f2cbb094a7a9ac38b.png",
+    "price": 500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Camo",
+    "image": "https://ggstand.net/public/storage/items/1689713671a4fb5dbc94d63812838f92656aebb9b9.png",
+    "price": 519.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Iron Wolf",
+    "image": "https://ggstand.net/public/storage/items/1775565607b91d0384b4d0e4d37eaaeb4730883bbf.png",
+    "price": 529.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Tan Hide",
+    "image": "https://ggstand.net/public/storage/items/168971367450dbc6d9b3cb357883544f213188bc0d.png",
+    "price": 530.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Safe Mode",
+    "image": "https://ggstand.net/public/storage/items/17816085564eb067ac286e5ba2e4f9989ea770fc23.png",
+    "price": 538.55,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Utility",
+    "image": "https://ggstand.net/public/storage/items/17252026253ab4a68fb6c1d0579c00f289d5bf42a4.png",
+    "price": 555.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Flux",
+    "image": "https://ggstand.net/public/storage/items/1698484876bd48ab59539670b810792ddfce0ef33d.png",
+    "price": 571.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Phase Shift",
+    "image": "https://ggstand.net/public/storage/items/17816086437694005f3a65f97232b7345dd55386f9.png",
+    "price": 595.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4 | Samurai",
+    "image": "https://ggstand.net/public/storage/items/1688127666bee9cd4ad5288a4fac522769b9c67d0d.png",
+    "price": 597.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Ferocity",
+    "image": "https://ggstand.net/public/storage/items/171043518908c69a9e6e0d72ed1b3278a42d7f5451.png",
+    "price": 600.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4 | N-Kai",
+    "image": "https://ggstand.net/public/storage/items/1698484134c0e5d60cb8b9d31ff8befb8589c4868d.png",
+    "price": 600.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Dread",
+    "image": "https://ggstand.net/public/storage/items/174964843197e98b424f730c4122993d9ba8415306.png",
+    "price": 602.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Famas | Fury",
+    "image": "https://ggstand.net/public/storage/items/1688081467ff8190000b8c76389c8acd4e012e162f.png",
+    "price": 606.89,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | Hohei Taisho",
+    "image": "https://ggstand.net/public/storage/items/17871556226a1440a1e956c593ef0136e672a34dd0.webp",
+    "price": 613.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Ahau",
+    "image": "https://ggstand.net/public/storage/items/177929336461605081d85611d9decedcd670ed904f.png",
+    "price": 615.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Handcraft",
+    "image": "https://ggstand.net/public/storage/items/1689713672effbf85d11ce377ad8895b654f8066b1.png",
+    "price": 619.9,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Static",
+    "image": "https://ggstand.net/public/storage/items/1781608590971ee8baa3e5f4f27492fddf0ee4cf97.png",
+    "price": 640.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Artificer",
+    "image": "https://ggstand.net/public/storage/items/17104374525db001010a28ade0e9f0d3123475006d.png",
+    "price": 650.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Neko Joy",
+    "image": "https://ggstand.net/public/storage/items/1735390397a711d8a04b504ca98834fc9295622cf5.png",
+    "price": 650.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Steam Rider",
+    "image": "https://ggstand.net/public/storage/items/16897136774036a2b62ce6740ee393ef3f0e451167.png",
+    "price": 670.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Stream",
+    "image": "https://ggstand.net/public/storage/items/1710437476b8e41cdd4a26bc5ab1c709e6a3fd59e5.png",
+    "price": 672.88,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*G22 | Twilight",
+    "image": "https://ggstand.net/public/storage/items/176614233617bbc6ddc5899942547fc9756dc6a8c6.png",
+    "price": 678.8,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | BOOM",
+    "image": "https://ggstand.net/public/storage/items/1787155226d15e24cae110798de5666fd1c8add680.webp",
+    "price": 679.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Sea Glint",
+    "image": "https://ggstand.net/public/storage/items/1779293149fbf08855dd2f0acac47d9c8db0600b93.png",
+    "price": 690.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Soul Devourer",
+    "image": "https://ggstand.net/public/storage/items/1689691732beaafc0ee0d35518adb36b33fd425d86.png",
+    "price": 695.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Pixel Glass",
+    "image": "https://ggstand.net/public/storage/items/1766142446fb1b713bb95c15faecffb59cdd856243.png",
+    "price": 695.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "P90 | Nebula",
+    "image": "https://ggstand.net/public/storage/items/16899440688b7bb97a032cf4d262090efee24278c0.png",
+    "price": 698.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Mortal Veil",
+    "image": "https://ggstand.net/public/storage/items/1698484761624abcac61be341b25c28143ba0ff2f6.png",
+    "price": 700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Magnalium",
+    "image": "https://ggstand.net/public/storage/items/1779293135f43998c7b2fcc4355fae58469f73d14d.png",
+    "price": 700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Veil",
+    "image": "https://ggstand.net/public/storage/items/17792933791bb00275a777a84af3e7bdd61c3a919e.png",
+    "price": 707.77,
+    "rarity": "covert"
+  },
+  {
+    "name": "Berettas | Royal Rose",
+    "image": "https://ggstand.net/public/storage/items/17871578142d8d1239874df8bb5ca323e884804bf2.webp",
+    "price": 710.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Mimicry",
+    "image": "https://ggstand.net/public/storage/items/1710437331f93f1ffa5ce7721162371a83fb143443.png",
+    "price": 720.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Tessera",
+    "image": "https://ggstand.net/public/storage/items/1749648438de9614bce944cd9fc14c32074cc193cf.png",
+    "price": 725.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Digital Burst",
+    "image": "https://ggstand.net/public/storage/items/1779292877fe14598a3d74b129dc80ca4a12a8d334.png",
+    "price": 735.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Retro Arcade",
+    "image": "https://ggstand.net/public/storage/items/17792930219a187031b0dd87008b9169c1ef3e9065.png",
+    "price": 740.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Tiki",
+    "image": "https://ggstand.net/public/storage/items/1779293000b7719a2ab99803c141ae46c1844ca6d3.png",
+    "price": 740.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Starfall",
+    "image": "https://ggstand.net/public/storage/items/1779292840c0b3a14372982befb8f8de91ac5b3b8f.png",
+    "price": 749.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Sea Eye",
+    "image": "https://ggstand.net/public/storage/items/17792928899dd1c45aaf235a73977b391d62b1f352.png",
+    "price": 749.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Prophet",
+    "image": "https://ggstand.net/public/storage/items/17792928501e09e797f2b0aef9d2cf93c41f94cc43.png",
+    "price": 750.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Spray",
+    "image": "https://ggstand.net/public/storage/items/17428275724d72ee4447817c9f12d1e48e3f1a5393.png",
+    "price": 766.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Solstice",
+    "image": "https://ggstand.net/public/storage/items/1779293009f53eedbf050bb8ffe319bbe618199342.png",
+    "price": 770.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Retro Arcade",
+    "image": "https://ggstand.net/public/storage/items/1779296640e9532ec2016e29bc6462d4c3da6187f7.png",
+    "price": 777.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Gold Trim",
+    "image": "https://ggstand.net/public/storage/items/17792966721a25c4f28b85094fd7b60ba0bfbeeb12.png",
+    "price": 779.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "USP | Mirage Menace",
+    "image": "https://ggstand.net/public/storage/items/1693405180d4cd2de111638534363f0abc6148716e.png",
+    "price": 780.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Holiday Frost",
+    "image": "https://ggstand.net/public/storage/items/1779296630a62157451797b1b5d8df6167d6afda07.png",
+    "price": 782.97,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Acid",
+    "image": "https://ggstand.net/public/storage/items/16897136718edf53126843505f14006d2eff8044fc.png",
+    "price": 783.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M40 | Auric Bloom",
+    "image": "https://ggstand.net/public/storage/items/1766142444dfb88374a8a52d0ac08a3d8981aea4ac.png",
+    "price": 799.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Cold Flame",
+    "image": "https://ggstand.net/public/storage/items/1779292671c922f1cc91244c3c61bc022df1b96f57.png",
+    "price": 800.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Polymer",
+    "image": "https://ggstand.net/public/storage/items/17252020495037b3fb8ec7a59b21345d0ca729b3cc.png",
+    "price": 813.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | Genesis",
+    "image": "https://ggstand.net/public/storage/items/1787155605dc5e043c3e2b29247869b000a85ff1d7.webp",
+    "price": 828.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Marble",
+    "image": "https://ggstand.net/public/storage/items/17428275686550ab683233cdaf7be5721a1ebf65a8.png",
+    "price": 830.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Hanami",
+    "image": "https://ggstand.net/public/storage/items/17353903115230d9ad628978aab8aeea75fbebe60b.png",
+    "price": 830.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Constellations",
+    "image": "https://ggstand.net/public/storage/items/17792926374b6b1b320a5f970d51a550318c9af853.png",
+    "price": 843.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Frost Nova",
+    "image": "https://ggstand.net/public/storage/items/1779292691e528b4cd7f2920cfcb0441b244d9e764.png",
+    "price": 850.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Dragon Scale",
+    "image": "https://ggstand.net/public/storage/items/16897136727808910b32a544c76772a4a4124edd83.png",
+    "price": 852.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Grunge",
+    "image": "https://ggstand.net/public/storage/items/1779292701af382e73ecc5b44ef31e1bf2f1f50c33.png",
+    "price": 870.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Demonic Steel",
+    "image": "https://ggstand.net/public/storage/items/177929264814d16061bc05122363c4daa4374e3f6f.png",
+    "price": 870.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Ares",
+    "image": "https://ggstand.net/public/storage/items/177929262542bebf63d53a39bb59df6a641c1cf297.png",
+    "price": 874.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Divine Power",
+    "image": "https://ggstand.net/public/storage/items/17792925865a20b97e5d89be52db5436703bae3871.png",
+    "price": 875.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Scorpion | Scratch",
+    "image": "https://ggstand.net/public/storage/items/17792928190ce7a209fefc67897039107b36134ffc.png",
+    "price": 877.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Fossil",
+    "image": "https://ggstand.net/public/storage/items/168971367202eda6b06573127a5b2b0c23ece0fc28.png",
+    "price": 880.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kukri | Antique Silver",
+    "image": "https://ggstand.net/public/storage/items/177929261407ff8b9d2dbfe434ee788c6d4325ac2f.png",
+    "price": 880.08,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Glitch",
+    "image": "https://ggstand.net/public/storage/items/1689691900cfe232a1a423869fd36c41978cf38a9c.png",
+    "price": 883.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*SM1014 | Freezing Gasp",
+    "image": "https://ggstand.net/public/storage/items/17031880463de252eeb32cc33436cbffe6da912477.png",
+    "price": 888.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Molten",
+    "image": "https://ggstand.net/public/storage/items/17792928287e1216db13b4068c18287096ec6e1a8c.png",
+    "price": 889.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Wavesong",
+    "image": "https://ggstand.net/public/storage/items/173539049449f48d987ec74233e17d23853f254361.png",
+    "price": 890.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Prism",
+    "image": "https://ggstand.net/public/storage/items/168969141353c3653d6d2a2050e0440ebb87974ca5.png",
+    "price": 895.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Frost Nova",
+    "image": "https://ggstand.net/public/storage/items/17792926826850da5897f60c539bd8b99d3a0c4d79.png",
+    "price": 906.25,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Thug",
+    "image": "https://ggstand.net/public/storage/items/1689713675f6530bf8ef06508a02420331ab254600.png",
+    "price": 907.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Gangster",
+    "image": "https://ggstand.net/public/storage/items/1725201391a5e38987bb7599d4f976c8091b246046.png",
+    "price": 910.12,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Jaws",
+    "image": "https://ggstand.net/public/storage/items/1779292660c8cd07f45f1e1b9811b482dbe6871718.png",
+    "price": 916.62,
+    "rarity": "covert"
+  },
+  {
+    "name": "G22 | Nest",
+    "image": "https://ggstand.net/public/storage/items/1688127264041c365b5f1c96b392991f5d415941fb.png",
+    "price": 925.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Magnalium",
+    "image": "https://ggstand.net/public/storage/items/1779292112b71ea8d6a0dfeef37782ff5a5adedabe.png",
+    "price": 949.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Voidroot",
+    "image": "https://ggstand.net/public/storage/items/17353904230c7f73b8d72a4c30050f6dbc07b5f029.png",
+    "price": 950.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Glitch",
+    "image": "https://ggstand.net/public/storage/items/1689691413eb86c8f6a61f70184dd498e3b98a6e13.png",
+    "price": 950.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Dual Daggers | Acid",
+    "image": "https://ggstand.net/public/storage/items/1787171609f115cbd146ef137f542562f92392774d.webp",
+    "price": 960.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Spectral",
+    "image": "https://ggstand.net/public/storage/items/178099114475c97737fe996e4384ceba4b324f8688.png",
+    "price": 969.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Immolation",
+    "image": "https://ggstand.net/public/storage/items/1698485032d4ed7467f00bcb2e34cd6ce619b44595.png",
+    "price": 976.94,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Flicker",
+    "image": "https://ggstand.net/public/storage/items/174282754766a648a7bd45203153cd679e48c9fb93.png",
+    "price": 998.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Damascus",
+    "image": "https://ggstand.net/public/storage/items/1779292162d2aa4f72a51659cf2165189cd67bd76e.png",
+    "price": 998.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "P350 | Blizzard",
+    "image": "https://ggstand.net/public/storage/items/1688132467974e5478171fb6540f01492bbaac908f.png",
+    "price": 998.97,
+    "rarity": "classified"
+  },
+  {
+    "name": "Kunai | Fire Horse",
+    "image": "https://ggstand.net/public/storage/items/1766142447f24c3083052e3c42f333ea013618e4d0.png",
+    "price": 998.97,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Corrode",
+    "image": "https://ggstand.net/public/storage/items/1771353149a94791a3471be0122ad1ccbfd0b27605.png",
+    "price": 999.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "MP5 | Gorgon",
+    "image": "https://ggstand.net/public/storage/items/1689857011d64a33dd7d622571429171aaaccc5548.png",
+    "price": 1000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Bubblegum",
+    "image": "https://ggstand.net/public/storage/items/16881278092f7316d7e2498d08fc2b98bd44f3a2e6.png",
+    "price": 1000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Viper",
+    "image": "https://ggstand.net/public/storage/items/177929212100cd085aeeb1bf68ca664aecbb110805.png",
+    "price": 1010.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Prism",
+    "image": "https://ggstand.net/public/storage/items/177929197589513bf020831d3b50c8a2f5a83587c4.png",
+    "price": 1020.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Pelagia",
+    "image": "https://ggstand.net/public/storage/items/177135309002babdcd65a6ce7569925a89b5348b48.png",
+    "price": 1030.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Meld",
+    "image": "https://ggstand.net/public/storage/items/17713531259d1f427a0976b0abf0dccd34d553cdd3.png",
+    "price": 1039.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR12 | Railgun",
+    "image": "https://ggstand.net/public/storage/items/1688079606b204fa01a609bc6debd72498c73febb5.png",
+    "price": 1048.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Stiletto | Tie Dye",
+    "image": "https://ggstand.net/public/storage/items/177929182832eeca59685f3c3d8b47fec7e985efe3.png",
+    "price": 1050.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Oil Sheen",
+    "image": "https://ggstand.net/public/storage/items/1771353100712eceed6248226c374ebe6af5d8bc66.png",
+    "price": 1050.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Wavesong",
+    "image": "https://ggstand.net/public/storage/items/17792919528a2eca6bbd0abb67b5abcb9103cdda14.png",
+    "price": 1050.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Relic",
+    "image": "https://ggstand.net/public/storage/items/1779291940eacf4f04a2bdeaeb12f524f5870782cb.png",
+    "price": 1070.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR12 | Riot",
+    "image": "https://ggstand.net/public/storage/items/1787153307f07033de959befcd31d8ac462663ab33.webp",
+    "price": 1076.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves Case | Champions",
+    "image": "https://ggstand.net/public/storage/items/1787153517ce410ab68b9c06769d24c2d17d05bae3.webp",
+    "price": 1080.0,
+    "rarity": "common"
+  },
+  {
+    "name": "M16 | Winged",
+    "image": "https://ggstand.net/public/storage/items/16881280249a1de5113fd49d2090373d54c8c762d1.png",
+    "price": 1090.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Sting | Fleck",
+    "image": "https://ggstand.net/public/storage/items/1771353139eb394c756368bc0cee54b5d19bf661c0.png",
+    "price": 1090.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Flow",
+    "image": "https://ggstand.net/public/storage/items/177929177796c64f76685136e2578fd6bd38ff139e.png",
+    "price": 1093.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Arctic Camo",
+    "image": "https://ggstand.net/public/storage/items/1775565623dd6c9b6b912c155ecbaadbb54c8184e4.png",
+    "price": 1099.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Champion",
+    "image": "https://ggstand.net/public/storage/items/1689856960316a5188e0556c1358f808fc4b30932e.png",
+    "price": 1100.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Year of the Tiger",
+    "image": "https://ggstand.net/public/storage/items/177929173838ed180755a509738ede90481932385b.png",
+    "price": 1100.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Onyx",
+    "image": "https://ggstand.net/public/storage/items/16897136735cbbd5101a41b7cab51b45010188bbc7.png",
+    "price": 1110.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Ice Storm",
+    "image": "https://ggstand.net/public/storage/items/1766142446faafe26315e2b1d287cd7ecdac7bf0f6.png",
+    "price": 1110.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Gambit",
+    "image": "https://ggstand.net/public/storage/items/1749648436a0daa540a0db9f77286ba9eb765eeab1.png",
+    "price": 1129.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Firm Grip",
+    "image": "https://ggstand.net/public/storage/items/177556556912c9b5b5724f44d88b387e2ddd10547b.png",
+    "price": 1130.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Dark Shiver",
+    "image": "https://ggstand.net/public/storage/items/1779287350414f7529a29d1afacde4845e30d0a4a7.png",
+    "price": 1130.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Slash",
+    "image": "https://ggstand.net/public/storage/items/17428275706dab1f7a7a3360bec66b543c74a5637f.png",
+    "price": 1132.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4 | Sunset",
+    "image": "https://ggstand.net/public/storage/items/1688507720e695db0471ba87b2d855844b8cd3e373.png",
+    "price": 1150.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4 | Pixel Storm",
+    "image": "https://ggstand.net/public/storage/items/16879772784565a7903992d248cb2bfc8fb85e7e22.png",
+    "price": 1150.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Serpent",
+    "image": "https://ggstand.net/public/storage/items/1779291751c023dbe62bcf5ac81ec8802f3446cbb4.png",
+    "price": 1158.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Transistor",
+    "image": "https://ggstand.net/public/storage/items/1779291789494ed67cf4b2c4b3a6b4ef541f7b6995.png",
+    "price": 1180.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Stiletto | Flux",
+    "image": "https://ggstand.net/public/storage/items/177929184430318f07d1d5b26f6bcd305066b2d904.png",
+    "price": 1189.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Holiday Frost",
+    "image": "https://ggstand.net/public/storage/items/1689690743e802fff13cfe23ebce8f6828dacc27c7.png",
+    "price": 1190.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Ancient",
+    "image": "https://ggstand.net/public/storage/items/1779291726574d4974997bcf2a7d2b4a5d1ec630e9.png",
+    "price": 1191.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Feral",
+    "image": "https://ggstand.net/public/storage/items/174282756712baa11790cb744dbf5aee04892009ac.png",
+    "price": 1197.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4 | Necromancer",
+    "image": "https://ggstand.net/public/storage/items/1688127686f2f277c9d69cd970df5b4aeba5948783.png",
+    "price": 1200.0,
+    "rarity": "classified"
+  },
+  {
+    "name": "Stiletto | Empyrean",
+    "image": "https://ggstand.net/public/storage/items/1766142272a6bbfd756138803c79c6b060d106b47d.png",
+    "price": 1200.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Temper Shades",
+    "image": "https://ggstand.net/public/storage/items/1771353021396be72f1733ba4241af1388b003cb11.png",
+    "price": 1208.14,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Engraving",
+    "image": "https://ggstand.net/public/storage/items/1761658530327e7e47676e490750dfeb90ae5a38b4.png",
+    "price": 1217.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Burning Fists",
+    "image": "https://ggstand.net/public/storage/items/16897136762439ae4dc85553bc6ebd93a5e43b6d80.png",
+    "price": 1225.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Saphira",
+    "image": "https://ggstand.net/public/storage/items/1779291762e1b37017773b8566f5de9318be2f9ab5.png",
+    "price": 1243.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*UMP45 | Beast",
+    "image": "https://ggstand.net/public/storage/items/168813350599a15162d421ad05f1403a4224b5fc5e.png",
+    "price": 1250.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Restless",
+    "image": "https://ggstand.net/public/storage/items/17792914916c29df9c05445901c0a8b30d2ad093f9.png",
+    "price": 1250.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Augustite",
+    "image": "https://ggstand.net/public/storage/items/16896914140f333a3e80d7132934cda87f79dd4c85.png",
+    "price": 1266.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Flare",
+    "image": "https://ggstand.net/public/storage/items/17792875925ce37d7151e102ea5622f08c6bd2207d.png",
+    "price": 1270.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Blight",
+    "image": "https://ggstand.net/public/storage/items/177928834710b19953fd283dfdf5cad16974a51abd.png",
+    "price": 1290.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Haunt",
+    "image": "https://ggstand.net/public/storage/items/17792883347b680107ae33dec65172105756237cf5.png",
+    "price": 1330.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Citrine",
+    "image": "https://ggstand.net/public/storage/items/17428282201791e6a6bd30528161b4477c96a2c82c.png",
+    "price": 1380.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "MAC10 | Argo",
+    "image": "https://ggstand.net/public/storage/items/1787257680df0353ea3bd5a27466e159ccf8f65248.webp",
+    "price": 1382.8,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Reaper",
+    "image": "https://ggstand.net/public/storage/items/1689691414231f2a391fcfcb8e574568de5b6227f3.png",
+    "price": 1400.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Yakuza",
+    "image": "https://ggstand.net/public/storage/items/17792914246d271b1cfb2ad7791b503b0774653a0e.png",
+    "price": 1430.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Rebellion",
+    "image": "https://ggstand.net/public/storage/items/1725202131dc6de3653891674df7e722d60f68171a.png",
+    "price": 1440.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Cold Flame",
+    "image": "https://ggstand.net/public/storage/items/1689691414a9b63d6a3ff35dfbd4c85448d720d496.png",
+    "price": 1440.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Luxury",
+    "image": "https://ggstand.net/public/storage/items/1689691416bf7c0da0e12b206a9d5f99081edbd8c5.png",
+    "price": 1440.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Royal Rose",
+    "image": "https://ggstand.net/public/storage/items/168971367457a82fd03c34e09f3d01a94540bfbb4e.png",
+    "price": 1469.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Snow Camo",
+    "image": "https://ggstand.net/public/storage/items/1689690743f3fdb2e228a55f5ce375e4e8a361ef13.png",
+    "price": 1479.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Lincoln",
+    "image": "https://ggstand.net/public/storage/items/1777371726772b0af7b94f743cbcebe59dd641c473.png",
+    "price": 1484.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Damascus",
+    "image": "https://ggstand.net/public/storage/items/1779287460f6835d5997fad897cbe6d2afd0a82aec.png",
+    "price": 1498.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Obsidian",
+    "image": "https://ggstand.net/public/storage/items/177928747430bd61db7606c729c9eb654b545dfda9.png",
+    "price": 1500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Augustite",
+    "image": "https://ggstand.net/public/storage/items/17792914584379c569e5a6f0a556f3542938a4292e.png",
+    "price": 1500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Reaper",
+    "image": "https://ggstand.net/public/storage/items/1779291479d45de12437d4f31352e9d4f0b04173f0.png",
+    "price": 1500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Dojo",
+    "image": "https://ggstand.net/public/storage/items/1779291435899bd86ac3bcdddfb93734d3fe40c0ac.png",
+    "price": 1510.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Punk",
+    "image": "https://ggstand.net/public/storage/items/16897136771a68070ccbb51634540d7d80f5e85348.png",
+    "price": 1518.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Jade Stone",
+    "image": "https://ggstand.net/public/storage/items/177556566033f19c5935cac61bebf3a2f6fb0cc72f.png",
+    "price": 1520.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Luxury",
+    "image": "https://ggstand.net/public/storage/items/1779291447e415421622419f85e4d96f48c392506c.png",
+    "price": 1537.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Sting | Shroud",
+    "image": "https://ggstand.net/public/storage/items/17713530454d0b8b659fc2af21d523a2d2323ca5dd.png",
+    "price": 1544.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Eclipse",
+    "image": "https://ggstand.net/public/storage/items/1742828219365b1145430d01cf3440330d0b63c71c.png",
+    "price": 1548.9,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Shatter",
+    "image": "https://ggstand.net/public/storage/items/1698485083366032179dddad7180abf82988196381.png",
+    "price": 1550.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Pearl Abyss",
+    "image": "https://ggstand.net/public/storage/items/16896918997bc9fa7416c6e462d4cca28acc3f9281.png",
+    "price": 1574.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Nest",
+    "image": "https://ggstand.net/public/storage/items/17428282219d889759e7a8e9eabc9cbee6c9268787.png",
+    "price": 1600.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Frond",
+    "image": "https://ggstand.net/public/storage/items/17428275718839ec92b96cb319fbbbfbc2305bf326.png",
+    "price": 1621.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Radiation",
+    "image": "https://ggstand.net/public/storage/items/16896914159cb364dfd2ac4bc5382ccce526f2253b.png",
+    "price": 1630.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Ravage",
+    "image": "https://ggstand.net/public/storage/items/174964843036e20d932c5e40bcc5a5b6f6177a0636.png",
+    "price": 1650.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Tanto | Malachite",
+    "image": "https://ggstand.net/public/storage/items/1779291470aa4bf27823e0ff8fb0841d55029ef9f5.png",
+    "price": 1650.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Templar",
+    "image": "https://ggstand.net/public/storage/items/16897136746f42e22b785c41aee06ec935ea6250ca.png",
+    "price": 1665.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "G22 | Impulse",
+    "image": "https://ggstand.net/public/storage/items/1744895215ff2809790b12e6de2d01e12968fa67aa.png",
+    "price": 1667.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "P350 | Impact",
+    "image": "https://ggstand.net/public/storage/items/174489558356fa8f30d61271cb013115a03057f13e.png",
+    "price": 1667.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Arctic",
+    "image": "https://ggstand.net/public/storage/items/1689690744203d91a150bbc922911b5b773f2aacf7.png",
+    "price": 1668.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Pelagia",
+    "image": "https://ggstand.net/public/storage/items/1771275105b4e8c56340a6ee7a344c613f0449d4d4.png",
+    "price": 1668.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Year of the Tiger",
+    "image": "https://ggstand.net/public/storage/items/1689713676f438f722ddb7f67ecea1db4602b16440.png",
+    "price": 1670.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Ice Storm",
+    "image": "https://ggstand.net/public/storage/items/1775565588e0b9aba02203beafee7abba678d66db4.png",
+    "price": 1678.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR | Genesis",
+    "image": "https://ggstand.net/public/storage/items/1787152449427fea59a03a4b1e751d0d3add41cac4.webp",
+    "price": 1685.33,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR | Mirage Menace",
+    "image": "https://ggstand.net/public/storage/items/17871525373b357b157dc30d5ee83eb65580d2997d.webp",
+    "price": 1690.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Paladin",
+    "image": "https://ggstand.net/public/storage/items/168840616704bb7b11f2a834b534e5c8c67b4c80cc.png",
+    "price": 1695.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Dragon Glass",
+    "image": "https://ggstand.net/public/storage/items/17104374074ebb9fb03cc3b0bc1c819fdc1773f775.png",
+    "price": 1715.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Fang | Aureate",
+    "image": "https://ggstand.net/public/storage/items/177928738935bdf32912c19558ab7f12ce4c4914f0.png",
+    "price": 1750.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*SPAS | Glide",
+    "image": "https://ggstand.net/public/storage/items/17428264965fe6795a23be56639ab37c26cb0d5fbd.png",
+    "price": 1770.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Starfall",
+    "image": "https://ggstand.net/public/storage/items/1787158181525d22d5d069fa3bc4d3039cb803e401.webp",
+    "price": 1777.77,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | X-Ray",
+    "image": "https://ggstand.net/public/storage/items/1689713675e4c91e09339a214bda6f000c8ab1a8e6.png",
+    "price": 1795.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Snow Camo",
+    "image": "https://ggstand.net/public/storage/items/16896914131c16fe85159ac6af1662714eba6a64d6.png",
+    "price": 1870.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | White Camo",
+    "image": "https://ggstand.net/public/storage/items/1749648434ab65270e159b4113e532a029fdfb70b4.png",
+    "price": 1883.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Genesis",
+    "image": "https://ggstand.net/public/storage/items/1742828222d25d746388fa270139aaac91cb72f413.png",
+    "price": 1890.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Dragon Glass",
+    "image": "https://ggstand.net/public/storage/items/168969074403aca9ff632fb2defa0abbf89a180a6e.png",
+    "price": 1900.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Black Widow",
+    "image": "https://ggstand.net/public/storage/items/1787158159bfabd7fbecdc1cef65d91c9c26c65c38.webp",
+    "price": 1930.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Treasure Hunter",
+    "image": "https://ggstand.net/public/storage/items/1766142340275bd7b8ffd4382916acea72fe95e3e7.png",
+    "price": 1979.89,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Glacier",
+    "image": "https://ggstand.net/public/storage/items/1787258649d4b17273bc7fc05e0bb58f301d12b02a.webp",
+    "price": 1999.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Blackout",
+    "image": "https://ggstand.net/public/storage/items/17816086794d6fa805b8a242bc244251d715ce0f28.png",
+    "price": 2000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Wild West",
+    "image": "https://ggstand.net/public/storage/items/17871582026143bb52a5c762ba944ff7d5a56bdea2.webp",
+    "price": 2045.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR12 | Emberbird",
+    "image": "https://ggstand.net/public/storage/items/1787153150bc4040b0b81440dee027eb555f296ba6.webp",
+    "price": 2050.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Phoenix Risen",
+    "image": "https://ggstand.net/public/storage/items/16896908939a376159d07aa42f8b3d336ec7b7415c.png",
+    "price": 2060.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Glitch",
+    "image": "https://ggstand.net/public/storage/items/1771274662d43c4deb835e12306e913a28fe64bf94.png",
+    "price": 2145.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Raider",
+    "image": "https://ggstand.net/public/storage/items/16897136730528ce42ee520b40e4ac16420bd7e0d4.png",
+    "price": 2243.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Saphira",
+    "image": "https://ggstand.net/public/storage/items/1771274506928bab3312fba0c710733fc773a6efea.png",
+    "price": 2285.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Vortex",
+    "image": "https://ggstand.net/public/storage/items/1689690742fba7bb33bb0c949fd569a6cec0be9729.png",
+    "price": 2299.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Dragon Glass",
+    "image": "https://ggstand.net/public/storage/items/17871580479120f7b0939cc522b000b95e63421cf6.webp",
+    "price": 2300.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "jKommando | Floral",
+    "image": "https://ggstand.net/public/storage/items/1779291413e3c2f42a9ac35398a86a5a8474186a56.png",
+    "price": 2317.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Legacy",
+    "image": "https://ggstand.net/public/storage/items/1787158106e25a2f3c1a833255200b1c8906573e16.webp",
+    "price": 2340.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Bone",
+    "image": "https://ggstand.net/public/storage/items/1689691416d487e4440a7a280301370bb8c6b0f80f.png",
+    "price": 2379.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | Nebula",
+    "image": "https://ggstand.net/public/storage/items/1787155672b5365c4d4c15f3095afb0d02ccf1cb07.webp",
+    "price": 2444.95,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*P350 | Forest Spirit",
+    "image": "https://ggstand.net/public/storage/items/16881324722336deb0c748bd1f2cbb094a7a9ac38b.png",
+    "price": 2454.98,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Akimbo Uzi | Fire Horse",
+    "image": "https://ggstand.net/public/storage/items/17871514803deb15f0c79b3611c4675b6643558439.webp",
+    "price": 2496.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Desert Eagle | Fusion Core",
+    "image": "https://ggstand.net/public/storage/items/1787172195d3a6a5695230294637a3ac6ba3f7d631.webp",
+    "price": 2499.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Frozen",
+    "image": "https://ggstand.net/public/storage/items/16896907448a5d52a080133b63b798425c5647d9d1.png",
+    "price": 2500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M60 | Mecha",
+    "image": "https://ggstand.net/public/storage/items/1688128335dee1d359eec7a54fce8841b1696e0b4e.png",
+    "price": 2689.9,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Razorwire",
+    "image": "https://ggstand.net/public/storage/items/1775565646c51e4f7a24e7f084e6588d41dde92a11.png",
+    "price": 2700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Year of the Tiger",
+    "image": "https://ggstand.net/public/storage/items/177127505538f80fdcb04d2133238d98530e8e0b70.png",
+    "price": 2749.5,
+    "rarity": "covert"
+  },
+  {
+    "name": "Jkommando | Frozen",
+    "image": "https://ggstand.net/public/storage/items/17792914011a75ec4f28c37a33a6cfaf92c22662f9.png",
+    "price": 2750.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Purple Camo",
+    "image": "https://ggstand.net/public/storage/items/1771275086ae97ab67b2a1e4cd403f5c7143775c65.png",
+    "price": 2750.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Reis",
+    "image": "https://ggstand.net/public/storage/items/1777372586c88b97c29fb0e217741645f640ad6082.png",
+    "price": 2800.0,
+    "rarity": "common"
+  },
+  {
+    "name": "Tanto | Blossom",
+    "image": "https://ggstand.net/public/storage/items/17586326918eb005836f88ae54853017fd79dec3f5.png",
+    "price": 2800.1,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Fire Storm",
+    "image": "https://ggstand.net/public/storage/items/178715814245175fd8e3201c59eb8c7dd2841977c6.webp",
+    "price": 2900.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | Spectral",
+    "image": "https://ggstand.net/public/storage/items/17871557676a25aa36acad03a9a2422d8ea057e54d.webp",
+    "price": 3087.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "USP | Geometric",
+    "image": "https://ggstand.net/public/storage/items/1688133753e4b7172d7fdb85358fb4aa456908f086.png",
+    "price": 3089.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Kunai | Poison",
+    "image": "https://ggstand.net/public/storage/items/16896914156eac09bfdb4fcd756faeb53c4c0c40e3.png",
+    "price": 3090.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Reis",
+    "image": "https://ggstand.net/public/storage/items/1777371705f52aa20c23488e07f6e7253b20c3f3eb.png",
+    "price": 3099.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Nebula",
+    "image": "https://ggstand.net/public/storage/items/177127509808681759ea4ecc2849062ee769e66a1b.png",
+    "price": 3111.11,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Pink Noise",
+    "image": "https://ggstand.net/public/storage/items/1781608615fa17e188c87623de3adca6884886275b.png",
+    "price": 3128.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Gambit",
+    "image": "https://ggstand.net/public/storage/items/1787158060c9e89958ff1e986845ab1ea007bd5e6f.webp",
+    "price": 3166.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Cold Flame",
+    "image": "https://ggstand.net/public/storage/items/1771275046de1c2cee77d69206c5d97525fa8e3455.png",
+    "price": 3180.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Impact",
+    "image": "https://ggstand.net/public/storage/items/1744895588f95286b35c0166db1cdd1b15b5c303dd.png",
+    "price": 3200.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4 | N-Kai",
+    "image": "https://ggstand.net/public/storage/items/1698484149c0e5d60cb8b9d31ff8befb8589c4868d.png",
+    "price": 3250.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Famas | Fury",
+    "image": "https://ggstand.net/public/storage/items/1688081465ff8190000b8c76389c8acd4e012e162f.png",
+    "price": 3300.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Retro Wave",
+    "image": "https://ggstand.net/public/storage/items/1689690893de56dead95a415816b9c46ec4dfe6a26.png",
+    "price": 3500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Plague",
+    "image": "https://ggstand.net/public/storage/items/169848504892d7303dfd945bf380b8461d968d4d93.png",
+    "price": 3600.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Living Flame",
+    "image": "https://ggstand.net/public/storage/items/1689690894e9ea07043094592d32f1c50dcb7093d7.png",
+    "price": 3676.67,
+    "rarity": "covert"
+  },
+  {
+    "name": "MP7 | Blizzard",
+    "image": "https://ggstand.net/public/storage/items/1688130155cff40bec4bfe8ebdba14d8303e7e50f9.png",
+    "price": 3697.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Amber Koi",
+    "image": "https://ggstand.net/public/storage/items/1735390448890afb2e830f61c71a88669292e3b1fc.png",
+    "price": 3700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Cold Flame",
+    "image": "https://ggstand.net/public/storage/items/1771274681f475994364da4dd0e8454607230adf2d.png",
+    "price": 3820.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Snow Camo",
+    "image": "https://ggstand.net/public/storage/items/17712749994e78e77400988679041d9611154dd218.png",
+    "price": 3888.88,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Ferocity",
+    "image": "https://ggstand.net/public/storage/items/171043519008c69a9e6e0d72ed1b3278a42d7f5451.png",
+    "price": 4050.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Jade Stone",
+    "image": "https://ggstand.net/public/storage/items/1787158124241631c1e3649f3766a1962efbe0358a.webp",
+    "price": 4100.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Dark Shiver",
+    "image": "https://ggstand.net/public/storage/items/17792870514e3351ce1fce1cf35fe6ff5623366317.png",
+    "price": 4185.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Lincoln",
+    "image": "https://ggstand.net/public/storage/items/1777372762faccbedd2a4c707193b6aca6a6efd432.png",
+    "price": 4189.0,
+    "rarity": "common"
+  },
+  {
+    "name": "M9 Bayonet | Citrine",
+    "image": "https://ggstand.net/public/storage/items/1766142332a500e170cfd2ec0e9c80c325faea1008.png",
+    "price": 4370.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Desert Eagle | Yakuza",
+    "image": "https://ggstand.net/public/storage/items/168808102701b30a819b61514b8a3786fd7ef5b027.png",
+    "price": 4400.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M40 | Auric Bloom",
+    "image": "https://ggstand.net/public/storage/items/1766142445dfb88374a8a52d0ac08a3d8981aea4ac.png",
+    "price": 4550.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Digital Burst",
+    "image": "https://ggstand.net/public/storage/items/1779291386bd81a726966fdbba944fcac34f4e6213.png",
+    "price": 4700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*USP | Mirage Menace",
+    "image": "https://ggstand.net/public/storage/items/1693405179d4cd2de111638534363f0abc6148716e.png",
+    "price": 4788.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Haunt",
+    "image": "https://ggstand.net/public/storage/items/16984849318809694af43fddd79304005d50c19caf.png",
+    "price": 4899.67,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Frozen",
+    "image": "https://ggstand.net/public/storage/items/1771275022f9984228733a7c97d17b07329af67e23.png",
+    "price": 4940.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Sketch",
+    "image": "https://ggstand.net/public/storage/items/1766142328e18b01293dac3a2978ae5041fae3e188.png",
+    "price": 4970.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Twilight",
+    "image": "https://ggstand.net/public/storage/items/17661423267118d954734724950e1b1bfd53be72ce.png",
+    "price": 5150.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AWM | Genesis",
+    "image": "https://ggstand.net/public/storage/items/1787155608dc5e043c3e2b29247869b000a85ff1d7.webp",
+    "price": 5300.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Poison",
+    "image": "https://ggstand.net/public/storage/items/17661423308da8d8dbf483c7b1e08287e1990a1187.png",
+    "price": 5300.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "FN FAL | Phoenix Risen",
+    "image": "https://ggstand.net/public/storage/items/168808165720a3f88e15139bcba96640387d2a99c5.png",
+    "price": 5475.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Dragon Glass",
+    "image": "https://ggstand.net/public/storage/items/17712749501c6c2d5306bc5323198cd28c31f98b57.png",
+    "price": 5800.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Universe",
+    "image": "https://ggstand.net/public/storage/items/1771274974d6441c49de96cd2cb77ec658385ed374.png",
+    "price": 6100.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Scratch",
+    "image": "https://ggstand.net/public/storage/items/1771274959a828658dcbf956511e33261671546762.png",
+    "price": 6500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*G22 | Nest",
+    "image": "https://ggstand.net/public/storage/items/1688127263041c365b5f1c96b392991f5d415941fb.png",
+    "price": 6750.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*P350 | Impact",
+    "image": "https://ggstand.net/public/storage/items/174489558556fa8f30d61271cb013115a03057f13e.png",
+    "price": 6829.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Geometric",
+    "image": "https://ggstand.net/public/storage/items/1689690895ed97dff7c1c9c9ef39c9a50c0fdf8c8e.png",
+    "price": 6878.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR12 | Riot",
+    "image": "https://ggstand.net/public/storage/items/1787153310f07033de959befcd31d8ac462663ab33.webp",
+    "price": 6990.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Berettas | Royal Rose",
+    "image": "https://ggstand.net/public/storage/items/17871578172d8d1239874df8bb5ca323e884804bf2.webp",
+    "price": 7040.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M4A1 | Year of the Tiger",
+    "image": "https://ggstand.net/public/storage/items/16897141918b6934c6b8c64967c366302fb5da1a4d.png",
+    "price": 7295.9,
+    "rarity": "covert"
+  },
+  {
+    "name": "Mantis | Impact",
+    "image": "https://ggstand.net/public/storage/items/17448955862358759d0dc8ba92549060a115f490d5.png",
+    "price": 7298.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AKR | Treasure Hunter",
+    "image": "https://ggstand.net/public/storage/items/1787152920814659bb23511e04ce4bc1b9fb795ff5.webp",
+    "price": 7299.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Autumn",
+    "image": "https://ggstand.net/public/storage/items/1689690895ce31c95d822dcda77aa8d38476d28f07.png",
+    "price": 7799.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4 | Sunset",
+    "image": "https://ggstand.net/public/storage/items/1688507721e695db0471ba87b2d855844b8cd3e373.png",
+    "price": 8250.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Butterfly | Kumo",
+    "image": "https://ggstand.net/public/storage/items/1771274640fad5ba96b824377de73c57846d1e6538.png",
+    "price": 8350.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*MAC10 | Argo",
+    "image": "https://ggstand.net/public/storage/items/1787257683df0353ea3bd5a27466e159ccf8f65248.webp",
+    "price": 8588.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M60 | Mecha",
+    "image": "https://ggstand.net/public/storage/items/1688128333dee1d359eec7a54fce8841b1696e0b4e.png",
+    "price": 8700.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Ancient",
+    "image": "https://ggstand.net/public/storage/items/1771275296b07475d76fde299bbdede9237829d32e.png",
+    "price": 9399.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Flip | Stone Cold",
+    "image": "https://ggstand.net/public/storage/items/168969074281bc1d194275448adfec2271defbf851.png",
+    "price": 9548.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Impact",
+    "image": "https://ggstand.net/public/storage/items/1744895589f95286b35c0166db1cdd1b15b5c303dd.png",
+    "price": 9996.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Neuro",
+    "image": "https://ggstand.net/public/storage/items/1689690894b82db0bd68885e02f535039c1d19b69d.png",
+    "price": 10799.93,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*G22 | Impulse",
+    "image": "https://ggstand.net/public/storage/items/1744895216ff2809790b12e6de2d01e12968fa67aa.png",
+    "price": 11466.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR | Mirage Menace",
+    "image": "https://ggstand.net/public/storage/items/17871525403b357b157dc30d5ee83eb65580d2997d.webp",
+    "price": 11499.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Kumo",
+    "image": "https://ggstand.net/public/storage/items/1779291371d9ffe3c64036efc3d1458d6d93317348.png",
+    "price": 11970.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*TEC-9 | Glitch",
+    "image": "https://ggstand.net/public/storage/items/16898571992d2e6987f2696a4dcab0ee3076797e3d.png",
+    "price": 12000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Karambit | Claw",
+    "image": "https://ggstand.net/public/storage/items/1771274918b5908df711b39d49168077416dd16635.png",
+    "price": 12650.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Frozen",
+    "image": "https://ggstand.net/public/storage/items/1779287007a802c998bf584d030e9e7418a550ba7f.png",
+    "price": 13630.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*FN FAL | Phoenix Risen",
+    "image": "https://ggstand.net/public/storage/items/168808165620a3f88e15139bcba96640387d2a99c5.png",
+    "price": 14500.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | 2 Years Red",
+    "image": "https://ggstand.net/public/storage/items/17871534253c9a2170923b77f6b5d92acaef189e4c.webp",
+    "price": 16000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "Gloves | Impulse",
+    "image": "https://ggstand.net/public/storage/items/1744895582426ec7cc2fd197dcc939e66a911d2578.png",
+    "price": 16199.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M9 Bayonet | Blue Blood",
+    "image": "https://ggstand.net/public/storage/items/1771275306d0a6d4707d78ae1f2cbb46578f50b538.png",
+    "price": 18490.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*MP7 | Blizzard",
+    "image": "https://ggstand.net/public/storage/items/1688130153cff40bec4bfe8ebdba14d8303e7e50f9.png",
+    "price": 19590.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "F/S | Poison",
+    "image": "https://ggstand.net/public/storage/items/168808194170f3541f98bf88ad34d7d5cc0d27e635.png",
+    "price": 20630.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*USP | Geometric",
+    "image": "https://ggstand.net/public/storage/items/1688133754e4b7172d7fdb85358fb4aa456908f086.png",
+    "price": 21299.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M110 | Celestial Beast",
+    "image": "https://ggstand.net/public/storage/items/1689714040208eac27155b093aa641b9a60342c563.png",
+    "price": 23999.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "M40 | Monster",
+    "image": "https://ggstand.net/public/storage/items/1688128210de40c890da6097fa62b9fbf95a91514b.png",
+    "price": 24485.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*M4A1 | Paladin",
+    "image": "https://ggstand.net/public/storage/items/168840616504bb7b11f2a834b534e5c8c67b4c80cc.png",
+    "price": 25000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "AWM | Moonstone",
+    "image": "https://ggstand.net/public/storage/items/17871556624f8b201e5afee6933612dbab5fee53c9.webp",
+    "price": 27221.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "G22 | Frozen",
+    "image": "https://ggstand.net/public/storage/items/1688127272e829b78811f8759d605781b20e54e202.png",
+    "price": 29999.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*Desert Eagle | Yakuza",
+    "image": "https://ggstand.net/public/storage/items/168808102501b30a819b61514b8a3786fd7ef5b027.png",
+    "price": 31489.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*F/S | Poison",
+    "image": "https://ggstand.net/public/storage/items/168808194070f3541f98bf88ad34d7d5cc0d27e635.png",
+    "price": 58000.0,
+    "rarity": "covert"
+  },
+  {
+    "name": "StatTrack*AKR | Treasure Hunter",
+    "image": "https://ggstand.net/public/storage/items/1787152923814659bb23511e04ce4bc1b9fb795ff5.webp",
+    "price": 79998.99,
+    "rarity": "covert"
+  }
+]
